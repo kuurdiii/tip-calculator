@@ -12,168 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1497018539,
-        "Kind": "Components.Component",
-        "Name": "project.d.App",
-        "AssemblyName": "project",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "project.d.App"
-        }
-      },
-      {
-        "HashCode": -257232513,
-        "Kind": "Components.Component",
-        "Name": "project.d.App",
-        "AssemblyName": "project",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "project.d.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "project.d.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 829852184,
-        "Kind": "Components.Component",
-        "Name": "project.d.Pages.Index",
-        "AssemblyName": "project",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "project.d.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1038480040,
-        "Kind": "Components.Component",
-        "Name": "project.d.Pages.Index",
-        "AssemblyName": "project",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "project.d.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "project.d.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1478711314,
-        "Kind": "Components.Component",
-        "Name": "project.d.Shared.MainLayout",
-        "AssemblyName": "project",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "project.d.Shared.MainLayout"
-        }
-      },
-      {
-        "HashCode": -1365791702,
-        "Kind": "Components.Component",
-        "Name": "project.d.Shared.MainLayout",
-        "AssemblyName": "project",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "project.d.Shared.MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "project.d.Shared.MainLayout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -47503189,
-        "Kind": "Components.ChildContent",
-        "Name": "project.d.Shared.MainLayout.Body",
-        "AssemblyName": "project",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "project.d.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 602463189,
-        "Kind": "Components.ChildContent",
-        "Name": "project.d.Shared.MainLayout.Body",
-        "AssemblyName": "project",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "project.d.Shared.MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "project.d.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1747176,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -16460,24 +16298,9 @@
   "RootNamespace": "project",
   "Documents": [
     {
-      "FilePath": "/Users/kurdi/Desktop/CIS 411/project/d/Pages/Index.razor",
-      "TargetPath": "d\\Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "/Users/kurdi/Desktop/CIS 411/project/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kurdi/Desktop/CIS 411/project/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kurdi/Desktop/CIS 411/project/d/Shared/MainLayout.razor",
-      "TargetPath": "d\\Shared\\MainLayout.razor",
-      "FileKind": "component"
     },
     {
       "FilePath": "/Users/kurdi/Desktop/CIS 411/project/Pages/_ViewStart.cshtml",
@@ -16490,16 +16313,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/kurdi/Desktop/CIS 411/project/d/App.razor",
-      "TargetPath": "d\\App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/kurdi/Desktop/CIS 411/project/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/kurdi/Desktop/CIS 411/project/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -16508,11 +16321,6 @@
       "FilePath": "/Users/kurdi/Desktop/CIS 411/project/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kurdi/Desktop/CIS 411/project/d/_Imports.razor",
-      "TargetPath": "d\\_Imports.razor",
-      "FileKind": "componentImport"
     }
   ],
   "SerializationFormat": "0.2"

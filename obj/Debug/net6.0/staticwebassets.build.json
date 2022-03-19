@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "18pHTq0EVfSpEgu7oKEC8crkM8nAM/plnZ0CQzERd1g=",
+  "Hash": "nIAfEbgwIGWD47sGd+Gm+NSP/aZcqH21hHOl9llGeTk=",
   "Source": "project",
   "BasePath": "_content/project",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "/Users/kurdi/Desktop/CIS 411/project/obj/Debug/net6.0/scopedcss/bundle/project.styles.css",
-      "SourceId": "project",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/kurdi/Desktop/CIS 411/project/obj/Debug/net6.0/scopedcss/bundle/",
-      "BasePath": "_content/project",
-      "RelativePath": "project.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/kurdi/Desktop/CIS 411/project/obj/Debug/net6.0/scopedcss/bundle/project.styles.css"
-    },
-    {
-      "Identity": "/Users/kurdi/Desktop/CIS 411/project/obj/Debug/net6.0/scopedcss/projectbundle/project.bundle.scp.css",
-      "SourceId": "project",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/kurdi/Desktop/CIS 411/project/obj/Debug/net6.0/scopedcss/projectbundle/",
-      "BasePath": "_content/project",
-      "RelativePath": "project.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/kurdi/Desktop/CIS 411/project/obj/Debug/net6.0/scopedcss/projectbundle/project.bundle.scp.css"
-    },
     {
       "Identity": "/Users/kurdi/Desktop/CIS 411/project/wwwroot/css/site.css",
       "SourceId": "project",
